@@ -1,0 +1,31 @@
+.box{
+	/* position:absolute; */
+	height: 800px;
+	width: 450px;
+	background-color: gold;
+	margin: 20px auto 0;
+}
+
+.prev,.next{
+	position:absolute;
+	width:15px;
+	height:24px;
+	/* background:url(../images/icons.png) left -450px no-repeat; */
+	left:0;
+	top:0;
+	/* background-color: green; */
+	cursor:pointer;
+}
+
+
+.prev{
+	left:80px;
+	top:300px;
+}
+
+.next{
+	/* background-position:left -500px; */
+	left:1150px;
+	top:300px;
+}
+

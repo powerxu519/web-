@@ -1,0 +1,34 @@
+.box1 ul{
+    text-align: center;
+    width: 960px;
+    height: 42px;
+    margin: 0 auto;
+    list-style:none;
+    /* border: 1px solid #dfdfdf; */
+    /* background-color:white; */
+	position:fixed;
+	bottom:0;
+	left:50%;
+	margin-left:-480px;
+}
+.box1 li{
+    display: inline;
+    list-style: none;
+}
+.box1 li a{
+    display: inline;
+    position: relative;
+    top:10px;
+    padding: 5px 10px;
+    background-color: pink;
+    border: 1px solid #000;
+	border-radius: 5px;
+    color: black;   
+    font:12px '微软雅黑';
+    text-decoration: none;
+}
+.box1 li a:hover{
+    background: orange;
+    opacity: 0.5;
+}
+

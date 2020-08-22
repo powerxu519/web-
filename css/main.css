@@ -1,0 +1,114 @@
+.center_con{
+	/* width: 1519.2px; */
+	height: 100px;
+}
+
+.search_con{
+	width:616px;
+	height:38px;
+	/* margin:60px 0 0 460px; */
+	margin: 60px auto 0;
+	/* margin:34px auto 0; */
+	border:1px solid #37ab40;
+	background:url(../images/icons.png) 10px 10px no-repeat;
+	background-color: #FFF;
+}
+
+.search_con .input_txt{
+	margin-left:36px;
+	width:480px;
+	height:38px;
+	border:0px;
+
+    /* 去掉获得焦点时显示的蓝色的框   */
+	outline:none;
+
+}
+
+
+.search_con .input_sub{
+	width:100px;
+	height:38px;
+	background-color:#37ab40;
+	border:0px;
+	font-size:14px;
+	color:#fff;
+
+    /* 将鼠标的形状设置为手型   */
+	cursor:pointer;
+}
+
+.main_menu01{
+	height: 200px;
+	/* margin: 50px auto 0; */
+	font: bold 20px/100px "microsoft yahei";
+	/* background-color: gold; */
+	/* overflow: hidden; */
+	
+}
+.main_menu01 a{
+	display: block;
+	height: 100px;
+	width: 350px;
+	text-align: center;
+	background: url(../images/photo.jpg);
+	background-size: 350px 100px;
+	margin: 50px auto 0;
+	border: 1px solid #37ab40;
+	color: #fff;
+	border-radius: 50px;
+}
+.main_menu01 a:hover{
+	color:#f80;
+	font-size: 45px;
+}
+
+.main_menu02{
+	height: 200px;
+	/* margin: 50px auto 0; */
+	font: bold 20px/100px "microsoft yahei";
+	/* background-color: gold; */
+	/* overflow: hidden; */
+}
+.main_menu02 a{
+	display: block;
+	height: 100px;
+	width: 350px;
+	text-align: center;
+	background: url(../images/dance.jpg);
+	background-size: 350px 100px;
+	margin: 50px auto 0;
+	border: 1px solid #37ab40;
+	color: #0565f6;
+	border-radius: 50px;
+}
+.main_menu02 a:hover{
+	color:#f80;
+	font-size: 45px;
+}
+
+.main_menu03{
+	height: 200px;
+	/* margin: 50px auto 0; */
+	font: bold 20px/100px "microsoft yahei";
+	/* background-color: gold; */
+	/* overflow: hidden; */
+}
+.main_menu03 a{
+	display: block;
+	height: 100px;
+	width: 350px;
+	text-align: center;
+	background: url(../images/music.jpg);
+	background-size: 350px 100px;
+	margin: 50px auto 0;
+	border: 1px solid #37ab40;
+	color: #cf05fa;
+	border-radius: 50px;
+
+}
+.main_menu03 a:hover{
+	color:#f80;
+	font-size: 45px;
+}
+
